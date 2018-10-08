@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lights Out</string>
+    <string name="victory">You won!</string>
+    <string name="Match">Make the buttons match</string>
+    <string name="oneturn">You have taken 1 turn</string>
+    <string name="turns">You have taken %d turns</string>
+    <string name="one">1</string>
+    <string name="zero">0</string>
+    <string name="newGame">NEW GAME</string>
+</resources>
